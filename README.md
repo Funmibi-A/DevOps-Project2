@@ -1,4 +1,4 @@
-DevOps-Project1
+DevOps-Project2
 
 Deploy a high-availability web app using CloudFormation
 
